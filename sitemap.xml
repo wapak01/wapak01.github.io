@@ -15,15 +15,18 @@
 		<loc>http://chokweb.com/faq.html</loc>
 	</url>
 	<url>
-		<loc>http://chokweb.com/page5.html</loc>
-	</url>
-	<url>
-		<loc>http://chokweb.com/page6.html</loc>
-	</url>
-	<url>
 		<loc>http://chokweb.com/onlineshop.html</loc>
 	</url>
 	<url>
 		<loc>http://chokweb.com/shopcontact.html</loc>
+	</url>
+	<url>
+		<loc>http://chokweb.com/Blog.html</loc>
+	</url>
+	<url>
+		<loc>http://chokweb.com/contact.html</loc>
+	</url>
+	<url>
+		<loc>http://chokweb.com/page9.html</loc>
 	</url>
 </urlset>
