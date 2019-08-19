@@ -1,1 +1,1 @@
-{"name":"chokweb","short_name":"chokweb","start_url":"/","display":"standalone","theme_color":"#7a7a7a","background_color":"#7a7a7a","icons":[{"src":"assets/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
+{"name":"chokapp","short_name":"chokapp","start_url":"/","display":"standalone","theme_color":"#7a7a7a","background_color":"#7a7a7a","icons":[{"src":"assets/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
