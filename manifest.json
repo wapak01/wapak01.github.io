@@ -1,1 +1,1 @@
-{"name":"chokapp","short_name":"chokapp","start_url":"/","display":"standalone","theme_color":"#7a7a7a","background_color":"#7a7a7a","icons":[{"src":"assets/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
+{"name":"AMP chokweb","short_name":"AMP chokweb","start_url":"/","display":"standalone","theme_color":"#149dcc","background_color":"#149dcc","icons":[{"src":"assets/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
