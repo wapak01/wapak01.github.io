@@ -99,7 +99,7 @@
         "main": true,
         "title": "Chok Web",
         "meta_descr": "Chokweb, an interactive creative designer, i design a simple and professional look of websites.  i also offering digital marketing, and cheap webdesigner",
-        "header_custom": " <meta name=\"keywords\" content=\"chokweb, cheapwebdesigner, webdesigner, cheapwebsite, qatarwebdesigner, qatardigitalmarketing, chokbarista\">\n\n  <meta name=\"author\" content=\"chok rivera\">\n\n<meta http-equiv=\"refresh\" content=\"5; URL=http://chokweb.com/\" />",
+        "header_custom": " <meta name=\"keywords\" content=\"chokweb, cheapwebdesigner, webdesigner, cheapwebsite, qatarwebdesigner, qatardigitalmarketing, chokbarista\">\n\n  <meta name=\"author\" content=\"chok rivera\">",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/photographer-logo.jpg"
